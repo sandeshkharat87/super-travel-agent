@@ -1,0 +1,8 @@
+# Target the __pycache__ directory recursively
+**/__pycache__/
+__pycache__/
+
+# Target individual compiled byte-code files
+*.py[cod]
+*$py.class
+.env
